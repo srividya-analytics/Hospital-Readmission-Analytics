@@ -1,0 +1,5 @@
+Metric,NO,>30,<30
+Average time_in_hospital,4.254,4.496,4.768
+Average num_medications,15.67,16.283,16.903
+Average number_inpatient,0.382,0.839,1.224
+Average number_diagnoses,7.221,7.647,7.693
